@@ -1,0 +1,18 @@
+<?php
+
+namespace DummyNamespace;
+
+use Illuminate\View\View;
+
+class DummyClass
+{
+    public function __construct()
+    {
+        //
+    }
+
+    public function compose(View $view)
+    {
+        $view->with();
+    }
+}
