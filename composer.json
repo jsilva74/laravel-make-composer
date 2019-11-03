@@ -16,5 +16,12 @@
         "psr-4": {
             "LaravelMakeComposer\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelMakeComposer\\MakeComposerServiceProvider"
+            ]
+        }
     }
 }
