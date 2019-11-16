@@ -1,6 +1,7 @@
 {
     "name": "jsjunior/laravel-make-composer",
     "description": "A package extending Artisan to make View Composer class",
+    "keywords": ["laravel", "command", "view composer"],
     "type": "library",
     "license": "MIT",
     "authors": [
